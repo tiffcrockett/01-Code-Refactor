@@ -4,4 +4,4 @@ For this project, I was provided with existing code and asked to refactor it for
 
 I added structural, semantic HTML elements that represent the sections of the company website, working to adhere to the best practices of the Semantic Web standards set by the W3C (World Wide Web Consortium).
 
-Link to the page: https://github.com/tiffcrockett/01-Code-Refactor
+Link to the page: https://tiffcrockett.github.io/01-Code-Refactor/.
