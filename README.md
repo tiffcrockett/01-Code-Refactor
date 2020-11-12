@@ -6,7 +6,7 @@ I added structural, semantic HTML elements that represent the sections of the co
 
 Screenshot 
 
-assets/images/horiseonScrnshot.png
+![image](https://github.com/tiffcrockett/01-Code-Refactor/blob/82d9cbe5dcbeeab202cf190e84a68e3f3080a138/assets/images/horiseonScrnshot.png)
 
 
 # Link
